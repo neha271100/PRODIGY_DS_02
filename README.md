@@ -77,6 +77,7 @@ The dataset used for this task is sourced from Kaggle: [Titanic - Machine Learni
 ## Libraries Used
 - **pandas** for data manipulation.
 - **matplotlib** and **seaborn** for data visualization.
+- **numpy** for numerical operations.
 - **zipfile** and **os** for file handling.
 
 ## Acknowledgments
